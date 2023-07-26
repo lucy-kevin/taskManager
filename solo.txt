@@ -1,2 +1,3 @@
 This is a simple text program for this repository
 This is a basic text program
+Jus for purposes of version control
